@@ -6,7 +6,7 @@ subtitle: Chemical Engineer & Materials Researcher | Chennai, India
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: anne.JPG
   image_circular: false
 
 news: false
