@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://annegracia.github.io/al-folio/sitemap.xml
+Sitemap: https://annegracia.github.io/sitemap.xml
