@@ -2,7 +2,7 @@
 layout: page
 title: RF Sputtering of Aluminium Thin Films
 description: Optimized Al thin-film deposition for Metal-Induced Layer Exchange in quantum computing applications
-img: assets/img/12.jpg
+img: assets/img/thumb_sputtering.jpg
 importance: 1
 category: work
 ---
