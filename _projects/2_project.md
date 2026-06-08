@@ -1,81 +1,40 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Pitting Corrosion Behaviour of WAAM 316L Stainless Steel
+description: Funded research comparing corrosion resistance of as-printed vs heat-treated wire arc additive manufactured steel
 img: assets/img/3.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
+Investigated the pitting corrosion behaviour of 316L austenitic stainless steel fabricated via **Wire Arc Additive Manufacturing (WAAM)** in both as-printed and solution-annealed heat-treated conditions. This was an **institutionally funded project (₹31,000)** carried out over 12 months at SSN College of Engineering under Dr. A.K. Lakshminarayanan and Dr. P. Senthilkumar.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Problem Statement
+WAAM-fabricated 316L SS develops complex microstructures — including δ-ferrite dendrites, residual austenite, and σ-phase precipitates — that differ significantly from wrought material. No prior work had systematically characterized pitting corrosion resistance of WAAM 316L in both as-printed and heat-treated conditions in a chloride environment simulating marine/industrial exposure.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## My Role
+- Electrochemical corrosion testing using potentiodynamic polarization
+- Experimental planning and sample preparation
+- Python-based data processing and uncertainty quantification (UQ) for corrosion datasets
+- Microstructural characterization and comparative analysis
+- Documentation and reporting
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Methods
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+| Technique | Purpose |
+|---|---|
+| Wire Arc Additive Manufacturing (WAAM) | Fabrication of 316L SS straight wall structures |
+| Solution Annealing Heat Treatment | Post-processing to modify microstructure |
+| Potentiodynamic Polarization | Electrochemical pitting corrosion evaluation in chloride environment |
+| Optical Microscopy & SEM | Microstructural characterization before and after corrosion |
+| Python (Pandas, Plotly) | Automated data processing and uncertainty quantification |
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Key Results
+- Comparative corrosion performance established between as-printed and heat-treated WAAM 316L
+- Heat treatment influenced δ-ferrite dissolution and σ-phase precipitation, directly affecting pitting resistance
+- Python UQ pipeline developed for standardized, reproducible analysis of electrochemical datasets
+- Results relevant to nuclear, food processing, chemical, and automotive industries
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+## Skills Demonstrated
+Additive Manufacturing · Corrosion Science · Electrochemical Testing · Metallurgy · Materials Characterization · Python Data Analysis · Uncertainty Quantification · Experimental Design · SEM · Heat Treatment
