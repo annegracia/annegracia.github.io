@@ -4,7 +4,7 @@ title: Anodization Process Optimization for Automotive Plunger Manufacturing
 description: B.Tech thesis — optimizing industrial anodizing of aluminium plungers at Brakes India Pvt. Ltd.
 img: assets/img/7.jpg
 importance: 3
-category: research
+category: work
 ---
 
 ## Overview
