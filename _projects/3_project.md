@@ -1,81 +1,56 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Anodization Process Optimization for Automotive Plunger Manufacturing
+description: B.Tech thesis — optimizing industrial anodizing of aluminium plungers at Brakes India Pvt. Ltd.
 img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
 importance: 3
-category: work
+category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
+Optimized the industrial anodization process for aluminium plungers used in automotive braking systems at **Brakes India Pvt. Ltd.**, Chennai. The project addressed recurring defects — smut formation, powdery coatings, and microfinish imperfections — that caused rework, part rejection, and increased production costs. This was also the B.Tech final year thesis submitted at SSN College of Engineering (May 2025) under Dr. Pachimatla Rajesh.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Problem Statement
+Anodized aluminium plungers in braking systems require a defect-free, uniform oxide layer for corrosion resistance and dimensional precision. Uncontrolled process variables were causing smut formation, powdery residues, and non-uniform oxide layers — leading to surface quality failures and increased rework on the production line.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## My Role
+- Process parameter investigation and experimental optimization
+- Electrolyte selection (oxalic + phosphoric acid system)
+- Oxide layer thickness (TOL) measurement and analysis
+- Electrochemical characterization (EIS and potentiodynamic polarization)
+- Response Surface Methodology (RSM) analysis using Minitab
+- SEM surface morphology analysis
+- Documentation and thesis writing
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Methods
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+| Technique | Purpose |
+|---|---|
+| Anodization (Oxalic + Phosphoric acid electrolyte) | Oxide layer formation on Al plungers |
+| Oxide Layer Thickness (TOL) Measurement | Gravimetric weight-loss method |
+| Electrochemical Impedance Spectroscopy (EIS) | Corrosion resistance evaluation |
+| Potentiodynamic Polarization | Corrosion current density measurement |
+| Salt Spray Test (ASTM B117) | Corrosion durability testing in 5% NaCl mist |
+| SEM Imaging | Surface morphology of oxide layer (top view + cross-section) |
+| Response Surface Methodology (RSM) | Statistical optimization of process parameters using Minitab |
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Variables Studied
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+| Parameter | Range Investigated |
+|---|---|
+| Temperature | 20–25°C |
+| Electrolyte Concentration | Varied (g/L) |
+| Current Density | Varied (A/dm²) |
+| Exposure Time | Varied (min) |
 
-{% raw %}
+## Key Results
+- **Optimized oxide layer thickness: TOL = 25.54 μm** under best-case conditions
+- Corrosion current density decreased as TOL increased — confirming improved protection
+- EIS confirmed metal resistance increased with oxide layer thickness
+- Salt Spray Test (ASTM B117) at 35°C validated corrosion durability of optimized coating
+- RSM analysis revealed non-linear interactions between temperature, current density, and TOL
+- Oxalic + phosphoric acid electrolyte outperformed standard sulfuric acid in surface uniformity
+- Surface microfinish improved by **78%** compared to baseline industrial process
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+## Skills Demonstrated
+Surface Engineering · Anodization · Electrochemical Testing · EIS · Corrosion Science · Process Optimization · RSM · Minitab · SEM · Industrial Process Engineering · Experimental Design · B.Tech Thesis
