@@ -41,8 +41,8 @@ Additive Manufacturing · Corrosion Science · Electrochemical Testing · Metall
 
 ## Heat Treatment Profiles
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/waam_htt.png" title="Heat Treatment Profiles" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
