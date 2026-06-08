@@ -1,18 +1,31 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: RF Sputtering of Aluminium Thin Films
+description: Optimized Al thin-film deposition for semiconductor applications
+img: assets/img/sputtering.jpg
 importance: 1
-category: work
-related_publications: true
+category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
+Deposited ~100 nm aluminum thin films using RF sputtering for metal-induced crystallization of silicon in microdevice architectures.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## My Role
+- Process parameter optimization
+- RF sputtering experiments
+- Sample preparation and characterization analysis
+
+## Methods
+RCA cleaning · RF Sputtering · FESEM · AFM · Profilometry
+
+## Key Results
+- Achieved ~100 nm uniform film thickness
+- ~40 nm grain size
+- Low surface roughness suitable for device integration
+- Optimized room-temperature deposition parameters
+
+## Skills
+Thin film deposition · Semiconductor processing · Materials characterization · Experimental design
 
     ---
     layout: page
