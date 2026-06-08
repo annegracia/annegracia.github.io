@@ -32,21 +32,6 @@ The MIL process for producing high-purity Si-28 depends critically on the qualit
 | FE-SEM (Thermo Fisher Apreo 2) | Surface morphology and EDS elemental mapping |
 | AFM (JPK NanoWizard XP) | Surface roughness quantification (Ra, Rq) |
 
-## Key Results
-
-**Optimized parameters:** 250 W RF power · Room temperature (28°C) · 0.001 mbar working pressure · 1 hour deposition
-
-- ✅ Achieved target film thickness of **~100 nm**
-- ✅ Fine, densely packed grains of **~40 nm** (confirmed via FE-SEM + ImageJ)
-- ✅ Surface roughness: **Ra = 5.385 nm, Rq = 6.719 nm**
-- ✅ Uniform Al distribution confirmed by EDS elemental mapping
-- ❌ Films deposited at 150°C showed grain coarsening (~500 nm), clustering, and voids — unsuitable for MIL
-
-Room-temperature deposition suppressed adatom mobility, preventing Volmer–Weber island growth and yielding a smooth, continuous film suitable for subsequent layer exchange processing.
-
-## Skills Demonstrated
-RF Sputtering · Thin Film Deposition · Semiconductor Processing · FE-SEM · AFM · Surface Profilometry · RCA Cleaning · ImageJ Analysis · Experimental Design · Materials Characterization
-
 ## Characterization Images
 
 <div class="row">
@@ -81,3 +66,18 @@ RF Sputtering · Thin Film Deposition · Semiconductor Processing · FE-SEM · A
 <div class="caption">
     Figure 2(c) Cross-sectional roughness profile — Ra = 5.385 nm, Rq = 6.719 nm
 </div>
+
+## Key Results
+
+**Optimized parameters:** 250 W RF power · Room temperature (28°C) · 0.001 mbar working pressure · 1 hour deposition
+
+- ✅ Achieved target film thickness of **~100 nm**
+- ✅ Fine, densely packed grains of **~40 nm** (confirmed via FE-SEM + ImageJ)
+- ✅ Surface roughness: **Ra = 5.385 nm, Rq = 6.719 nm**
+- ✅ Uniform Al distribution confirmed by EDS elemental mapping
+- ❌ Films deposited at 150°C showed grain coarsening (~500 nm), clustering, and voids — unsuitable for MIL
+
+Room-temperature deposition suppressed adatom mobility, preventing Volmer–Weber island growth and yielding a smooth, continuous film suitable for subsequent layer exchange processing.
+
+## Skills Demonstrated
+RF Sputtering · Thin Film Deposition · Semiconductor Processing · FE-SEM · AFM · Surface Profilometry · RCA Cleaning · ImageJ Analysis · Experimental Design · Materials Characterization
