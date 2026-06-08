@@ -51,21 +51,33 @@ RF Sputtering · Thin Film Deposition · Semiconductor Processing · FE-SEM · A
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/sem_sampleA.png" title="SEM Sample A - Room Temperature" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/sem_RT.png" title="SEM Sample A - Room Temperature" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/sem_sampleB.png" title="SEM Sample B - 150°C" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/sem_150.png" title="SEM Sample B - 150°C" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Figure 1(a) FE-SEM surface morphology of Sample A (room temperature) — fine uniform grains ~40 nm. Figure 2(a) FE-SEM surface morphology of Sample B (150°C) — coarse grains ~500 nm with voids.
+    Figure 1 FE-SEM surface morphology — Sample A (room temperature, ~40 nm uniform grains) vs Sample B (150°C, ~500 nm coarse grains with voids)
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/afm.png" title="AFM Surface Topography" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/afm_2d.png" title="AFM 2D Topography" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/afm_3d.png" title="AFM 3D Surface Map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Figure 3(a) 2D AFM topography, (b) 3D AFM surface map, and (c) cross-sectional roughness profile of optimized Al thin film — Ra = 5.385 nm, Rq = 6.719 nm.
+    Figure 2(a) 2D AFM height map and (b) 3D surface topography of optimized Al thin film
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/afm_profile.png" title="AFM Cross-sectional Profile" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 2(c) Cross-sectional roughness profile — Ra = 5.385 nm, Rq = 6.719 nm
 </div>
