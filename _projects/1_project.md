@@ -58,7 +58,7 @@ RF Sputtering · Thin Film Deposition · Semiconductor Processing · FE-SEM · A
     </div>
 </div>
 <div class="caption">
-    FE-SEM surface morphology: Sample A (room temperature, ~40 nm grains) vs Sample B (150°C, ~500 nm coarse grains)
+    Figure 1(a) FE-SEM surface morphology of Sample A (room temperature) — fine uniform grains ~40 nm. Figure 2(a) FE-SEM surface morphology of Sample B (150°C) — coarse grains ~500 nm with voids.
 </div>
 
 <div class="row">
@@ -67,5 +67,5 @@ RF Sputtering · Thin Film Deposition · Semiconductor Processing · FE-SEM · A
     </div>
 </div>
 <div class="caption">
-    AFM surface topography of optimized Al thin film — Ra = 5.385 nm, Rq = 6.719 nm
+    Figure 3(a) 2D AFM topography, (b) 3D AFM surface map, and (c) cross-sectional roughness profile of optimized Al thin film — Ra = 5.385 nm, Rq = 6.719 nm.
 </div>
