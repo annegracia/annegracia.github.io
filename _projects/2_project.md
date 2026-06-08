@@ -4,7 +4,7 @@ title: Pitting Corrosion Behaviour of WAAM 316L Stainless Steel
 description: Funded research comparing corrosion resistance of as-printed vs heat-treated wire arc additive manufactured steel
 img: assets/img/3.jpg
 importance: 2
-category: research
+category: work
 ---
 
 ## Overview
