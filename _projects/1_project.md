@@ -46,3 +46,26 @@ Room-temperature deposition suppressed adatom mobility, preventing Volmer–Webe
 
 ## Skills Demonstrated
 RF Sputtering · Thin Film Deposition · Semiconductor Processing · FE-SEM · AFM · Surface Profilometry · RCA Cleaning · ImageJ Analysis · Experimental Design · Materials Characterization
+
+## Characterization Images
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sem_sampleA.png" title="SEM Sample A - Room Temperature" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sem_sampleB.png" title="SEM Sample B - 150°C" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    FE-SEM surface morphology: Sample A (room temperature, ~40 nm grains) vs Sample B (150°C, ~500 nm coarse grains)
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/afm.png" title="AFM Surface Topography" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    AFM surface topography of optimized Al thin film — Ra = 5.385 nm, Rq = 6.719 nm
+</div>
