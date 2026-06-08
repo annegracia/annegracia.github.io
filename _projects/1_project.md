@@ -1,28 +1,48 @@
 ---
 layout: page
 title: RF Sputtering of Aluminium Thin Films
-description: Optimized Al thin-film deposition for semiconductor applications
+description: Optimized Al thin-film deposition for Metal-Induced Layer Exchange in quantum computing applications
 img: assets/img/12.jpg
 importance: 1
 category: research
 ---
 
 ## Overview
-Deposited ~100 nm aluminum thin films using RF sputtering for metal-induced crystallization of silicon in microdevice architectures.
+Deposited ~100 nm aluminium thin films on silicon wafers using RF sputtering, optimized for the **Metal-Induced Layer Exchange (MIL)** process with amorphous silicon. The target application is isotopically enriched Si-28 — a critical material for spin-based quantum computing architectures requiring nuclear spin-free environments.
+
+This work was carried out at SSN College of Engineering using the RF sputtering facility at the institution's research centre.
+
+## Problem Statement
+The MIL process for producing high-purity Si-28 depends critically on the quality of the aluminium seed layer. Precise control over film thickness, grain size, and surface roughness is essential for uniform, defect-free silicon recrystallization. Existing literature had not fully optimized RF sputtering parameters specifically for MIL applications.
 
 ## My Role
-- Process parameter optimization
-- RF sputtering experiments
-- Sample preparation and characterization analysis
+- Systematic optimization of RF sputtering process parameters
+- Substrate preparation using standard RCA cleaning protocol
+- Design and execution of 8 experimental runs across varying power, pressure, temperature, and deposition time
+- Film characterization using profilometry, FE-SEM, and AFM
+- Data analysis using ImageJ for grain size quantification
 
 ## Methods
-RCA cleaning · RF Sputtering · FESEM · AFM · Profilometry
+
+| Technique | Purpose |
+|---|---|
+| RCA Cleaning | Removal of organic, metallic, and oxide contaminants from Si wafers |
+| RF Sputtering | Al thin film deposition (99.99% purity Al target) |
+| Thickness Profilometry (Bruker Dektak XT) | Step-height measurement of deposited films |
+| FE-SEM (Thermo Fisher Apreo 2) | Surface morphology and EDS elemental mapping |
+| AFM (JPK NanoWizard XP) | Surface roughness quantification (Ra, Rq) |
 
 ## Key Results
-- Achieved ~100 nm uniform film thickness
-- ~40 nm grain size
-- Low surface roughness suitable for device integration
-- Optimized room-temperature deposition parameters
 
-## Skills
-Thin film deposition · Semiconductor processing · Materials characterization · Experimental design
+**Optimized parameters:** 250 W RF power · Room temperature (28°C) · 0.001 mbar working pressure · 1 hour deposition
+
+- ✅ Achieved target film thickness of **~100 nm**
+- ✅ Fine, densely packed grains of **~40 nm** (confirmed via FE-SEM + ImageJ)
+- ✅ Surface roughness: **Ra = 5.385 nm, Rq = 6.719 nm**
+- ✅ Uniform Al distribution confirmed by EDS elemental mapping
+- ❌ Films deposited at 150°C showed grain coarsening (~500 nm), clustering, and voids — unsuitable for MIL
+
+Room-temperature deposition suppressed adatom mobility, preventing Volmer–Weber island growth and yielding a smooth, continuous film suitable for subsequent layer exchange processing.
+
+## Skills Demonstrated
+RF Sputtering · Thin Film Deposition · Semiconductor Processing · FE-SEM · AFM · Surface Profilometry · RCA Cleaning · ImageJ Analysis · Experimental Design · Materials Characterization
