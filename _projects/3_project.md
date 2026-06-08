@@ -54,3 +54,43 @@ Anodized aluminium plungers in braking systems require a defect-free, uniform ox
 
 ## Skills Demonstrated
 Surface Engineering · Anodization · Electrochemical Testing · EIS · Corrosion Science · Process Optimization · RSM · Minitab · SEM · Industrial Process Engineering · Experimental Design · B.Tech Thesis
+
+## Characterization & Results
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/anod_sem_top.jpg" title="SEM Top View" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/anod_sem_cross.jpg" title="SEM Cross Section" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 1 SEM imaging of anodized aluminium at optimized conditions — (a) top view showing porous oxide structure, (b) cross-section confirming oxide layer formation (TOL = 25.54 μm)
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/anod_rsm_contour.jpg" title="RSM Contour Plot" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/anod_rsm_surface.jpg" title="RSM Surface Plot" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 2 Response Surface Methodology (RSM) plots — TOL vs Exposure Time and Current Density, showing optimal process window
+</div>
+
+## Certificates
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cert_brakes.jpg" title="Brakes India Certificate" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cert_iiche.jpg" title="IIChE Conference Certificate" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Brakes India internship completion certificate (Feb 2025) and IIChE National Conference presentation certificate (March 2025)
+</div>
