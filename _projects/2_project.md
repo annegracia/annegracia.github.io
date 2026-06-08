@@ -38,3 +38,14 @@ WAAM-fabricated 316L SS develops complex microstructures — including δ-ferrit
 
 ## Skills Demonstrated
 Additive Manufacturing · Corrosion Science · Electrochemical Testing · Metallurgy · Materials Characterization · Python Data Analysis · Uncertainty Quantification · Experimental Design · SEM · Heat Treatment
+
+## Heat Treatment Profiles
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/waam_htt.png" title="Heat Treatment Profiles" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 1 Heat treatment temperature profiles (HTT1–HTT4) applied to as-printed WAAM 316L SS samples for comparative corrosion study.
+</div>
