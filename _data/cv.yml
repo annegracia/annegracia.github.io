@@ -44,13 +44,13 @@
       year: Oct 2024 - Feb 2025
       description:
         - Optimized industrial electrochemical anodizing processes for automotive components
-        - Improved surface microfinish by 78% and mitigated mass transport/diffusion defects
+        - Improved surface microfinish by 78% and mitigated mass transport defects
     - title: Undergraduate Researcher (Funded Project)
       institution: SSN College of Engineering, Chennai
       year: Jan 2024 - Oct 2024
       description:
         - Investigated electrochemical kinetics and pitting corrosion behavior of WAAM 316L stainless steel
-        - Project funded with 35,000 INR supporting experimental design and material characterization
+        - Project funded with 35,000 INR
         - Developed Python data processing and uncertainty quantification (UQ) classes
 
 - title: Education
@@ -79,4 +79,4 @@
 - title: Publications & Conferences
   type: list
   contents:
-    - Presented research at IIChE National Conference on Innovation of Process Engineering for Sustainable Development, March 2025
+    - Presented at IIChE National Conference on Innovation of Process Engineering for Sustainable Development, March 2025
