@@ -10,6 +10,17 @@ category: work
 ## Overview
 Contributed to the development of an **AI-powered R&D automation platform** at N-ERGY AI Solutions, designed to compress the materials discovery timeline from 5–10 years down to months. The platform integrates automated literature retrieval, AI-driven research gap identification, and simulation agents into a unified research workflow.
 
+## Platform
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/nergy_platform.png" title="N-ERGY Platform" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    N-ERGY AI Platform — Query interface showing Deep Research, Quick Search, and Design Workspace modes for AI-driven materials discovery.
+</div>
+
 The platform consists of two core agents:
 - **MatGeek** — a RAG (Retrieval-Augmented Generation) agent for automated scientific literature ingestion, search, and analysis
 - **Axiom** — a simulation agent for automated materials property prediction
