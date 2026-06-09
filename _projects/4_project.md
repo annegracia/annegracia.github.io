@@ -2,7 +2,7 @@
 layout: page
 title: AI-Assisted Materials Research Platform — N-ERGY
 description: Building automation infrastructure for AI-driven scientific discovery at N-ERGY AI Solutions
-img: assets/img/12.jpg
+img: assets/img/nergy_platform.png
 importance: 4
 category: work
 ---
