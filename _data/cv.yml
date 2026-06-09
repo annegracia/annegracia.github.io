@@ -17,7 +17,7 @@
 - title: Professional Summary
   type: list
   contents:
-    - Driven Chemical Engineering graduate and Materials Researcher with a strong foundation in electrochemistry, process optimization, and computational workflows. Experienced in bridging experimental materials characterization with Python-driven data analysis. Currently building AI-assisted research infrastructure at N-ERGY AI Solutions. Seeking Master's programs in Materials, Energy, Battery, or Chemical Engineering at German universities for Summer 2027.
+    - Chemical Engineering graduate and Materials Researcher with a strong foundation in electrochemistry, process optimization, and computational workflows. Experienced in bridging experimental material characterization with Python/MATLAB-driven data analysis. Seeking Master's programs in Materials, Energy, or Chemical Engineering at German universities for Summer 2027.
 
 - title: Work Experience
   type: time_table
@@ -28,14 +28,13 @@
       description:
         - Building automated literature ingestion pipeline using OpenAlex API for MatGeek RAG agent
         - Developing Plotly-based data visualization interfaces for simulation results
-        - Collaborating with backend and ML teams on research-oriented platform features
+        - Collaborating with ML team on predictive workflows and research-oriented platform features
     - title: Experimental Materials Associate
       institution: N-ERGY AI Solutions India Pvt Ltd, Chennai
       year: Feb 2025 - Oct 2025
       description:
-        - Optimized RF sputtering of Al thin films (100 nm) for quantum computing applications
-        - Developed Python UQ classes for standardized analysis of materials datasets
-        - Contributed to AI platform development for automating materials R&D workflows
+        - Optimized Aluminum thin-film deposition using RF sputtering to achieve uniform 100 nm films
+        - Experienced in materials synthesis through sol-gel and metallurgical routes
 
 - title: Research Experience
   type: time_table
@@ -44,15 +43,15 @@
       institution: Brakes India Pvt Ltd, Chennai
       year: Oct 2024 - Feb 2025
       description:
-        - Optimized industrial anodizing processes for automotive components, improving surface microfinish by 78%
-        - Mitigated mass transport/diffusion defects within the electrolyte bath
-        - Presented research at IIChE National Conference, March 2025
-    - title: Undergraduate Researcher – Funded Project
+        - Optimized industrial electrochemical anodizing processes for automotive components
+        - Improved surface microfinish by 78% and mitigated mass transport/diffusion defects
+    - title: Undergraduate Researcher (Funded Project)
       institution: SSN College of Engineering, Chennai
       year: Jan 2024 - Oct 2024
       description:
-        - Investigated pitting corrosion behavior of WAAM 316L stainless steel using potentiodynamic polarization
-        - Project funded with ₹35,000 supporting experimental design and material characterization
+        - Investigated electrochemical kinetics and pitting corrosion behavior of WAAM 316L stainless steel
+        - Project funded with 35,000 INR supporting experimental design and material characterization
+        - Developed Python data processing and uncertainty quantification (UQ) classes
 
 - title: Education
   type: time_table
@@ -61,36 +60,23 @@
       institution: SSN College of Engineering, Chennai
       year: 2021 - 2025
       description:
-        - CGPA 8.3/10 (~3.3/4 GPA)
+        - CGPA 8.3/10 (equivalent to 3.3/4 GPA)
         - Department 3rd Rank
-    - title: Higher Secondary
+    - title: High School
       institution: SBOA School and Junior College
       year: 2019 - 2021
       description:
-        - 88%
+        - Percentage 88%
 
 - title: Technical Skills
-  type: nested_list
-  contents:
-    - title: Characterization
-      items:
-        - FTIR, XPS, SEM/EDS, XRD, AFM
-    - title: Fabrication & Synthesis
-      items:
-        - RF Sputtering, High-entropy alloys, Colloidal synthesis, CO₂ laser processing
-    - title: Data Analysis & Modeling
-      items:
-        - Python (Pandas, Plotly), MATLAB, Streamlit, OriginLab, Aspen Plus
-    - title: Developer Tools
-      items:
-        - Git/GitHub, PyMongo, Streamlit deployment
-
-- title: Academic Strengths
   type: list
   contents:
-    - Transport Phenomena, Electrochemical Engineering, Process Dynamics and Control, Chemical Reaction Engineering
+    - "Characterization: FTIR, XPS, SEM/EDS, XRD, AFM"
+    - "Fabrication: RF Sputtering, High-entropy alloys, Colloidal synthesis, CO2 laser processing"
+    - "Data Analysis: Python (Pandas, Plotly), MATLAB, Streamlit, OriginLab, Aspen Plus"
+    - "Developer Tools: Git/GitHub, PyMongo, Streamlit"
 
 - title: Publications & Conferences
   type: list
   contents:
-    - "Enhancing Microfinish and Resolving Smut and Powdery Coating Issues in the Anodizing Process for Automotive Plunger Manufacturing — IIChE National Conference, March 2025"
+    - Presented research at IIChE National Conference on Innovation of Process Engineering for Sustainable Development, March 2025
