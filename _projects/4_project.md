@@ -8,7 +8,7 @@ category: work
 ---
 
 ## Overview
-Contributed to the development of an **AI-powered R&D automation platform** at N-ERGY AI Solutions, designed to compress the materials discovery timeline from 5–10 years down to months. The platform integrates automated literature retrieval, AI-driven research gap identification, and simulation agents into a unified research workflow.
+Contributed to the development of an **AI-powered R&D automation platform** at [N-ERGY AI Solutions](https://www.nergyai.com/), designed to compress the materials discovery timeline from 5–10 years down to months. The platform integrates automated literature retrieval, AI-driven research gap identification, and simulation agents into a unified research workflow.
 
 ## Platform
 
