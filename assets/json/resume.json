@@ -45,26 +45,6 @@
         "Optimized Aluminum thin-film deposition using RF sputtering to achieve uniform 100 nm films",
         "Experienced in materials synthesis through sol-gel and metallurgical routes"
       ]
-    },
-    {
-      "name": "Aachi Foods, Chennai",
-      "position": "Quality Analyst Intern",
-      "startDate": "2024-07",
-      "endDate": "2024-07",
-      "highlights": [
-        "Observed operational and strategic aspects of food processing industry",
-        "Applied chemical engineering principles to process optimization and quality control"
-      ]
-    },
-    {
-      "name": "Pallavaram Tanners Industrial Effluent Treatment Co. Ltd., Chennai",
-      "position": "Environmental Services Intern",
-      "startDate": "2024-06",
-      "endDate": "2024-06",
-      "highlights": [
-        "Studied leather tanning and industrial effluent treatment processes",
-        "Gained exposure to environmental engineering and wastewater management"
-      ]
     }
   ],
   "education": [
@@ -76,14 +56,6 @@
       "endDate": "2025",
       "score": "8.3/10",
       "courses": ["Department 3rd Rank"]
-    },
-    {
-      "institution": "SBOA School and Junior College",
-      "area": "Higher Secondary / High School",
-      "studyType": "High School",
-      "startDate": "2019",
-      "endDate": "2021",
-      "score": "88%"
     }
   ],
   "publications": [
@@ -105,17 +77,6 @@
     {
       "name": "Data Analysis",
       "keywords": ["Python", "MATLAB", "Streamlit", "OriginLab", "Aspen Plus"]
-    }
-  ],
-  "interests": [
-    {
-      "name": "Extracurricular Activities",
-      "keywords": [
-        "District-level Handball player",
-        "Active member, Youth Red Cross — organized blood donation and medical camps",
-        "Teaching volunteer for NGO",
-        "Event Head, INVENTE Symposium — SSN College of Engineering"
-      ]
     }
   ]
 }
