@@ -20,10 +20,7 @@ selected_papers: false
 social: true
 ---
 
-Chemical Engineering graduate **(SSN College of Engineering, 2025)** and Materials Researcher with hands-on experience across the full stack of modern materials science — from **RF sputtering and electrochemical testing** in the lab to **Python-driven data pipelines and AI-assisted research platforms** in production.
+Chemical engineer and materials researcher working at the intersection of experimental science and AI-driven R&D. Currently part of the core development team at N-ERGY AI Solutions — building uncertainty quantification engines, automated literature ingestion pipelines, and simulation interfaces for a platform designed to compress the materials discovery timeline by 10x.
+My research background spans thin-film deposition (RF sputtering of Al films for quantum computing applications), corrosion science (pitting behaviour of WAAM 316L stainless steel — institutionally funded), and surface engineering (industrial anodization optimization at Brakes India). Each project was rooted in a real manufacturing or technology problem, not just academic exercise.
+I gravitate toward problems that sit at the edge of materials science and engineering systems — where characterization data meets process decisions and where fundamental research connects to industrial reality.
 
-Currently at **[N-ERGY AI Solutions](https://www.nergyai.com/)**, bridging experimental materials science with computational workflows — building literature ingestion pipelines, uncertainty quantification modules, and simulation interfaces for an AI-powered R&D platform.
-
-My research spans **thin-film deposition**, **corrosion science**, **surface engineering**, and **additive manufacturing** — with a focus on connecting fundamental materials characterization to real engineering applications.
-
-Seeking **Master's programs** in Materials Science, Energy Engineering, Chemical Engineering, or Process Engineering at German universities — **Summer 2027 intake**.
