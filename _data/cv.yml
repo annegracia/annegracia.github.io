@@ -84,12 +84,16 @@
         - Percentage 88%
 
 - title: Technical Skills
-  type: list
+  type: nested_list
   contents:
-    - "<strong>Characterization:</strong> FTIR, XPS, SEM/EDS, XRD, AFM"
-    - "<strong>Fabrication:</strong> RF Sputtering, High-entropy alloys, Colloidal synthesis, CO2 laser processing"
-    - "<strong>Data Analysis:</strong> Python (Pandas, Plotly), MATLAB, Streamlit, OriginLab, Aspen Plus"
-    - "<strong>Developer Tools:</strong> Git/GitHub, PyMongo, Streamlit"
+    - title: Characterization
+      value: FTIR, XPS, SEM/EDS, XRD, AFM
+    - title: Fabrication
+      value: RF Sputtering, High-entropy alloys, Colloidal synthesis, CO2 laser processing
+    - title: Data Analysis
+      value: Python (Pandas, Plotly), MATLAB, Streamlit, OriginLab, Aspen Plus
+    - title: Developer Tools
+      value: Git/GitHub, PyMongo, Streamlit
 
 - title: Publications & Conferences
   type: list
