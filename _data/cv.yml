@@ -6,7 +6,7 @@
     - name: Email
       value: annegracia.alexsahayam@gmail.com
     - name: Phone
-      value: +91 95000 54045
+      value: "+91 95000 54045"
     - name: Location
       value: Chennai, Tamil Nadu, India
     - name: LinkedIn
@@ -15,21 +15,20 @@
       value: annegracia.github.io
 
 - title: Professional Summary
-  type: list
-  contents:
-    - Chemical Engineering graduate and Materials Researcher with a strong foundation in electrochemistry, process optimization, and computational workflows. Experienced in bridging experimental material characterization with Python/MATLAB-driven data analysis. Seeking Master's programs in Materials, Energy, or Chemical Engineering at German universities for Summer 2027.
+  type: text
+  contents: Chemical Engineering graduate and Materials Researcher with a strong foundation in electrochemistry, process optimization, and computational workflows. Experienced in bridging experimental material characterization with Python/MATLAB-driven data analysis. Seeking Master's programs in Materials, Energy, or Chemical Engineering at German universities for Summer 2027.
 
 - title: Work Experience
   type: time_table
   contents:
-  - title: Materials Associate
+    - title: Materials Associate
       institution: N-ERGY AI Solutions India Pvt Ltd, Chennai
       year: Oct 2025 - Present
       description:
         - Building automated literature ingestion pipeline using OpenAlex API for MatGeek RAG agent
         - Developing Plotly-based data visualization interfaces for simulation results
         - Collaborating with ML team on predictive workflows and research-oriented platform features
-  - title: Experimental Materials Associate
+    - title: Experimental Materials Associate
       institution: N-ERGY AI Solutions India Pvt Ltd, Chennai
       year: Feb 2025 - Oct 2025
       description:
@@ -39,13 +38,13 @@
 - title: Research Experience
   type: time_table
   contents:
-  - title: Project Intern
+    - title: Project Intern
       institution: Brakes India Pvt Ltd, Chennai
       year: Oct 2024 - Feb 2025
       description:
         - Optimized industrial electrochemical anodizing processes for automotive components
         - Improved surface microfinish by 78% and mitigated mass transport defects
-  - title: Undergraduate Researcher (Funded Project)
+    - title: Undergraduate Researcher (Funded Project)
       institution: SSN College of Engineering, Chennai
       year: Jan 2024 - Oct 2024
       description:
@@ -56,13 +55,13 @@
 - title: Internships
   type: time_table
   contents:
- - title: Quality Analyst Intern
+    - title: Quality Analyst Intern
       institution: Aachi Foods, Chennai
       year: Jul 2024
       description:
         - Observed operational and strategic aspects of food processing industry
         - Applied chemical engineering principles to process optimization and quality control
- - title: Environmental Services Intern
+    - title: Environmental Services Intern
       institution: Pallavaram Tanners Industrial Effluent Treatment Co. Ltd., Chennai
       year: Jun 2024
       description:
@@ -72,13 +71,13 @@
 - title: Education
   type: time_table
   contents:
-  - title: B.Tech in Chemical Engineering
+    - title: B.Tech in Chemical Engineering
       institution: SSN College of Engineering, Chennai
       year: 2021 - 2025
       description:
         - CGPA 8.3/10 (equivalent to 3.3/4 GPA)
         - Department 3rd Rank
-  - title: High School
+    - title: High School
       institution: SBOA School and Junior College
       year: 2019 - 2021
       description:
@@ -87,10 +86,10 @@
 - title: Technical Skills
   type: list
   contents:
-    - "Characterization: FTIR, XPS, SEM/EDS, XRD, AFM"
-    - "Fabrication: RF Sputtering, High-entropy alloys, Colloidal synthesis, CO2 laser processing"
-    - "Data Analysis: Python (Pandas, Plotly), MATLAB, Streamlit, OriginLab, Aspen Plus"
-    - "Developer Tools: Git/GitHub, PyMongo, Streamlit"
+    - "<strong>Characterization:</strong> FTIR, XPS, SEM/EDS, XRD, AFM"
+    - "<strong>Fabrication:</strong> RF Sputtering, High-entropy alloys, Colloidal synthesis, CO2 laser processing"
+    - "<strong>Data Analysis:</strong> Python (Pandas, Plotly), MATLAB, Streamlit, OriginLab, Aspen Plus"
+    - "<strong>Developer Tools:</strong> Git/GitHub, PyMongo, Streamlit"
 
 - title: Publications & Conferences
   type: list
