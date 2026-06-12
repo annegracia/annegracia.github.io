@@ -8,7 +8,7 @@ description: Chemical Engineer & Materials Researcher
 ---
 
 <div style="margin-bottom: 2rem;">
-<a href="/assets/pdf/anne_cv.pdf" target="_blank" style="display: inline-block; padding: 10px 24px; background: #2ECC71; color: #fff; border-radius: 6px; font-weight: 600; font-size: 1rem; text-decoration: none; letter-spacing: 0.5px;">⬇ Download CV (PDF)</a>
+<a href="/assets/pdf/anne_cv.pdf" target="_blank" style="display: inline-block; padding: 10px 24px; background: #FFFEFA; color: #fff; border-radius: 6px; font-weight: 600; font-size: 1rem; text-decoration: none; letter-spacing: 0.5px;">⬇ Download CV (PDF)</a>
 </div>
 
 ---
