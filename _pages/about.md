@@ -8,7 +8,7 @@ subtitle: >
 
 profile:
   align: right
-  image: anne.JPG
+  image: anne.jpg
   image_circular: true
   more_info: >
     <p style="font-family: sans-serif; font-size: 0.85em;">🔬 Thin Films · Electrochemistry · AI-assisted Research</p>
