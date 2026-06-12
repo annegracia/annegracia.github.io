@@ -55,10 +55,10 @@ Dataset: 20 experimental runs on aluminium automotive plungers varying temperatu
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/uq_result.png" title="UQ Result" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1_uq_TOL_um_qrnn.png" title="UQ Result" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/uq_table.png" title="Summary Table" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2_summary_table.png" title="Summary Table" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -67,14 +67,23 @@ Dataset: 20 experimental runs on aluminium automotive plungers varying temperatu
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/uq_distribution.png" title="Distribution" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_comparison.png" title="Method Comparison" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/uq_correlation.png" title="Correlation Heatmap" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/4_distribution.png" title="Distribution" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: TOL data distribution showing right skew (skewness = 1.09) — explains why QRNN outperforms GUM. Right: Correlation heatmap showing exposure time and temperature as dominant drivers of TOL.
+    Left: GUM vs Monte Carlo vs QRNN CI comparison. Right: TOL data distribution showing right skew (skewness = 1.09).
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5_correlation.png" title="Correlation Heatmap" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Correlation heatmap — exposure time and temperature are the dominant drivers of TOL variability.
 </div>
 
 ---
