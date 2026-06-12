@@ -58,3 +58,9 @@ Traditional materials discovery relies on manual literature review, trial-and-er
 
 ## Skills Demonstrated
 RAG Systems · Literature Ingestion Pipelines · API Integration · Uncertainty Quantification · Python · Plotly · Streamlit · Scientific Data Processing · AI Platform Development · Materials Informatics
+
+## Open Source
+
+As part of this work I built and open-sourced an adaptive UQ engine for materials datasets:
+
+**[materials-uq-engine](https://github.com/annegracia/materials-uq-engine)** — Python engine implementing GUM, Monte Carlo, and QRNN for automatic uncertainty quantification. Demonstrated on real anodization and corrosion datasets.
