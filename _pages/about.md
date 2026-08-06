@@ -11,8 +11,7 @@ profile:
   image: anne.JPG
   image_circular: true
   more_info: >
-    <p style="font-family: sans-serif; font-size: 0.85em;">🔬 Thin Films · Electrochemistry · AI-assisted Research</p>
-    <p style="font-family: sans-serif; font-size: 0.85em;">🎓 Seeking MSc — Germany, Summer 2027</p>
+    <p style="font-family: sans-serif; font-size: 0.85em;">🔬 AI-assisted Research</p>
     <p style="font-family: sans-serif; font-size: 0.85em;">🏢 Materials Researcher @ <a href="https://www.nergyai.com/">N-ERGY AI</a></p>
 
 news: true
