@@ -16,7 +16,7 @@ description: Chemical Engineer & Materials Researcher
 ## Work Experience
 
 <div style="margin-top: 1.8rem; margin-bottom: 2.5rem;">
-<p style="margin:0"><strong>Materials Associate</strong> &nbsp;|&nbsp; N-ERGY AI Solutions India Pvt Ltd &nbsp;|&nbsp; <em>Oct 2025 – Present</em></p>
+<p style="margin:0"><strong>Materials Researcher</strong> &nbsp;|&nbsp; N-ERGY AI Solutions India Pvt Ltd &nbsp;|&nbsp; <em>Oct 2025 – Present</em></p>
 <ul style="margin-top: 0.8rem;">
 <li>Building automated literature ingestion pipeline using OpenAlex API for MatGeek RAG agent</li>
 <li>Developing Plotly-based data visualization interfaces for simulation results</li>
@@ -119,8 +119,8 @@ description: Chemical Engineer & Materials Researcher
 
 <div style="margin-top: 1.8rem; margin-bottom: 2.5rem;">
 <ul>
-<li>Energy Conservation and Waste Heat Recovery — NPTEL (62/100)</li>
-<li>Physico-chemical Processes for Wastewater Treatment — NPTEL (65/100)</li>
+<li>Energy Conservation and Waste Heat Recovery </li>
+<li>Physico-chemical Processes for Wastewater Treatment </li>
 </ul>
 </div>
 
