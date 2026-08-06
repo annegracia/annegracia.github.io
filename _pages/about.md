@@ -19,7 +19,7 @@ selected_papers: false
 social: true
 ---
 
-Chemical engineer and materials researcher working at the intersection of experimental science and AI-driven R&D. Currently part of the core development team at N-ERGY AI Solutions — building uncertainty quantification engines, automated literature ingestion pipelines, and simulation interfaces for a platform designed to compress the materials discovery timeline by 10x.
+Chemical engineer and materials researcher working at the intersection of experimental science and AI-driven R&D. Currently part of the core development team at N-ERGY AI Solutions, I contribute to the development of AI-powered materials discovery platforms by building research automation workflows, uncertainty quantification frameworks, scientific literature intelligence systems, and simulation visualization tools that accelerate materials R&D.
 
 My research background spans thin-film deposition (RF sputtering of Al films for quantum computing applications), corrosion science (pitting behaviour of WAAM 316L stainless steel — institutionally funded), and surface engineering (industrial anodization optimization at Brakes India). Each project was rooted in a real manufacturing or technology problem, not just academic exercise.
 
