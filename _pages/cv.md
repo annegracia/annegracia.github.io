@@ -27,8 +27,9 @@ description: Chemical Engineer & Materials Researcher
 <div style="margin-bottom: 2.5rem;">
 <p style="margin:0"><strong>Experimental Materials Associate</strong> &nbsp;|&nbsp; N-ERGY AI Solutions India Pvt Ltd &nbsp;|&nbsp; <em>Feb 2025 – Oct 2025</em></p>
 <ul style="margin-top: 0.8rem;">
-<li>Optimized Aluminum thin-film deposition using RF sputtering to achieve uniform 100 nm films</li>
-<li>Materials synthesis through sol-gel and metallurgical routes</li>
+<li>Conducted experimental research on aluminum thin-film deposition using RF magnetron sputtering, optimizing process parameters to achieve uniform ~100 nm coatings.</li>
+<li>Performed materials synthesis using sol-gel and metallurgical processing techniques for research and product development.<li>
+<li>Assisted in materials characterization and experimental optimization to support AI-assisted materials discovery initiatives.</li>
 </ul>
 </div>
 
