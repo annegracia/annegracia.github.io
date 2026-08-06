@@ -18,10 +18,9 @@ description: Chemical Engineer & Materials Researcher
 <div style="margin-top: 1.8rem; margin-bottom: 2.5rem;">
 <p style="margin:0"><strong>Materials Researcher</strong> &nbsp;|&nbsp; N-ERGY AI Solutions India Pvt Ltd &nbsp;|&nbsp; <em>Oct 2025 – Present</em></p>
 <ul style="margin-top: 0.8rem;">
-<li>Building automated literature ingestion pipeline using OpenAlex API for MatGeek RAG agent</li>
-<li>Developing Plotly-based data visualization interfaces for simulation results</li>
-<li>Collaborating with ML and backend teams on predictive workflows</li>
-<li>Developing and deploying Python UQ classes to standardize automated analysis of complex materials datasets</li>
+<li>Contribute to the development of AI-driven workflows that accelerate materials research through automated literature analysis, simulation, and data-driven decision support.</li>
+<li>Developed uncertainty quantification (UQ) modules in Python to standardize the analysis and reliability assessment of complex materials datasets.</li>
+<li>Collaborated with multidisciplinary teams of materials scientists, machine learning engineers, and software developers to integrate AI tools into materials discovery workflows.</li>
 </ul>
 </div>
 
