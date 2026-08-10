@@ -57,10 +57,6 @@ description: Chemical Engineer & Materials Researcher
 
 ## Earlier Industry Experience
 
-### Quality Analyst Intern | Aachi Foods, Chennai | Jul 2024
-
-- Applied chemical engineering principles to process optimization and quality-control activities.
-
 ### Environmental Services Intern | Pallavaram Tanners Industrial Effluent Treatment Co. Ltd. | Jun 2024
 
 - Studied industrial leather-tanning processes and industrial effluent-treatment operations.
