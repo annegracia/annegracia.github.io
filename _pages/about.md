@@ -11,8 +11,8 @@ profile:
   image: anne.JPG
   image_circular: true
   more_info: >
-    <p style="font-family: sans-serif; font-size: 0.85em;">🔬 AI-assisted Research</p>
-    <p style="font-family: sans-serif; font-size: 0.85em;">🏢 Materials Researcher @ <a href="https://www.nergyai.com/">N-ERGY AI</a></p>
+    <p style="font-family: sans-serif; font-size: 0.85em;"> AI-assisted Research</p>
+    <p style="font-family: sans-serif; font-size: 0.85em;"> Materials Researcher @ <a href="https://www.nergyai.com/">N-ERGY AI</a></p>
 
 news: true
 selected_papers: false
