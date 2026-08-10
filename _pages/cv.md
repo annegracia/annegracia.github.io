@@ -15,136 +15,132 @@ description: Chemical Engineer & Materials Researcher
 
 ## Work Experience
 
-<div style="margin-top: 1.8rem; margin-bottom: 2.5rem;">
-<p style="margin:0"><strong>Materials Researcher</strong> &nbsp;|&nbsp; N-ERGY AI Solutions India Pvt Ltd &nbsp;|&nbsp; <em>Oct 2025 – Present</em></p>
-<ul style="margin-top: 0.8rem;">
-<li>Contribute to the development of AI-driven workflows that accelerate materials research through automated literature analysis, simulation, and data-driven decision support.</li>
-<li>Developed uncertainty quantification (UQ) modules in Python to standardize the analysis and reliability assessment of complex materials datasets.</li>
-<li>Collaborated with multidisciplinary teams of materials scientists, machine learning engineers, and software developers to integrate AI tools into materials discovery workflows.</li>
-</ul>
-</div>
+### Materials Researcher | N-ERGY AI Solutions India Pvt. Ltd. | Oct 2025 – Present
 
-<div style="margin-bottom: 2.5rem;">
-<p style="margin:0"><strong>Experimental Materials Associate</strong> &nbsp;|&nbsp; N-ERGY AI Solutions India Pvt Ltd &nbsp;|&nbsp; <em>Feb 2025 – Oct 2025</em></p>
-<ul style="margin-top: 0.8rem;">
-<li>Conducted experimental research on aluminum thin-film deposition using RF magnetron sputtering, optimizing process parameters to achieve uniform ~100 nm coatings.</li>
-<li>Performed materials synthesis using sol-gel and metallurgical processing techniques for research and product development.<li>
-<li>Assisted in materials characterization and experimental optimization to support AI-assisted materials discovery initiatives.</li>
-</ul>
-</div>
+- Contribute to the development of AI-driven materials discovery workflows designed to accelerate scientific research and materials R&D.
+- Part of the core product development team, contributing to the product vision, workflow design, and development of the platform's core research capabilities.
+- Led the development and implementation of uncertainty quantification (UQ) workflows integrated into AI-assisted materials research, enabling more reliable assessment of model predictions and research outcomes.
+- Developed automated scientific literature workflows for retrieving, processing, and organizing research publications for AI-assisted materials research.
+- Collaborate across materials science, machine learning, and software development teams to translate research requirements into deployable innovation workflows.
+
+### Experimental Materials Associate | N-ERGY AI Solutions India Pvt. Ltd. | Feb 2025 – Oct 2025
+
+- Supported scientists in experimental planning, execution, and materials evaluation while contributing to the development of materials solutions for industrial requirements.
+- Led experimental investigation and optimized aluminum thin-film deposition using RF sputtering to achieve uniform ~100 nm films for micro-device architectures.
+- Contributed to identifying a viable materials-processing solution within a four-week intensive experimental development cycle.
+- Conducted materials synthesis and experimental development using sol-gel and metallurgical processing routes.
+- Collaborated with multidisciplinary teams to develop and optimize materials and processing approaches based on specific industrial requirements.
 
 ---
 
-## Research Experience
+## Research & Innovation Projects
 
-<div style="margin-top: 1.8rem; margin-bottom: 2.5rem;">
-<p style="margin:0"><strong>Project Intern</strong> &nbsp;|&nbsp; Brakes India Pvt Ltd, Chennai &nbsp;|&nbsp; <em>Oct 2024 – Feb 2025</em></p>
-<p style="margin-top: 0.3rem; color: #aaa; font-size: 0.9rem;">Guide: Dr. Pachimatla Rajesh</p>
-<ul style="margin-top: 0.8rem;">
-<li>Optimized industrial electrochemical anodizing processes for automotive aluminium plungers</li>
-<li>Improved surface microfinish by 78% and mitigated mass transport/diffusion defects</li>
-<li>Optimized oxide layer thickness to TOL = 25.54 μm using RSM (Minitab)</li>
-</ul>
-</div>
+### Industrial Surface Engineering | Brakes India Pvt. Ltd., Chennai | Oct 2024 – Feb 2025
 
-<div style="margin-bottom: 2.5rem;">
-<p style="margin:0"><strong>Undergraduate Researcher (Funded)</strong> &nbsp;|&nbsp; SSN College of Engineering &nbsp;|&nbsp; <em>Jan 2024 – Oct 2024</em></p>
-<p style="margin-top: 0.3rem; color: #aaa; font-size: 0.9rem;">Guide: Dr. A.K. Lakshminarayanan &nbsp;|&nbsp; Funded: ₹35,000</p>
-<ul style="margin-top: 0.8rem;">
-<li>Investigated electrochemical kinetics and pitting corrosion behavior of WAAM 316L stainless steel</li>
-<li>Developed Python data processing and uncertainty quantification (UQ) classes</li>
-</ul>
-</div>
+**Guide:** Dr. Pachimatla Rajesh
+
+- Optimized industrial electrochemical anodizing processes for automotive components, achieving a reported **78% improvement in surface microfinish**.
+- Investigated process-related defects including smut, powdery coating, and mass-transport/diffusion limitations.
+- Optimized oxide-layer thickness to **25.54 μm** using Response Surface Methodology (RSM) in Minitab.
+- Presented the resulting research at the **National Conference on Innovation of Process Engineering for Sustainable Development**, IIChE-CRC, March 2025.
+
+### Institutionally Funded Research | SSN College of Engineering | Jan 2024 – Oct 2024
+
+**Guide:** Dr. A. K. Lakshminarayanan  
+**Research Funding:** ₹35,000
+
+- Investigated the electrochemical kinetics and pitting corrosion behaviour of WAAM 316L stainless steel.
+- Conducted experimental investigations using potentiodynamic polarization and microscopy to evaluate corrosion behaviour and material performance.
+- Received ₹35,000 in institutional research funding supporting experimental design and materials characterization.
 
 ---
 
-## Internships
+## Earlier Industry Experience
 
-<div style="margin-top: 1.8rem; margin-bottom: 2.5rem;">
-<p style="margin:0"><strong>Quality Analyst Intern</strong> &nbsp;|&nbsp; Aachi Foods, Chennai &nbsp;|&nbsp; <em>Jul 2024</em></p>
-<ul style="margin-top: 0.8rem;">
-<li>Applied chemical engineering principles to process optimization and quality control</li>
-</ul>
-</div>
+### Quality Analyst Intern | Aachi Foods, Chennai | Jul 2024
 
-<div style="margin-bottom: 2.5rem;">
-<p style="margin:0"><strong>Environmental Services Intern</strong> &nbsp;|&nbsp; Pallavaram Tanners Industrial Effluent Treatment Co. Ltd. &nbsp;|&nbsp; <em>Jun 2024</em></p>
-<ul style="margin-top: 0.8rem;">
-<li>Studied leather tanning and industrial effluent treatment processes</li>
-</ul>
-</div>
+- Applied chemical engineering principles to process optimization and quality-control activities.
+
+### Environmental Services Intern | Pallavaram Tanners Industrial Effluent Treatment Co. Ltd. | Jun 2024
+
+- Studied industrial leather-tanning processes and industrial effluent-treatment operations.
 
 ---
 
 ## Education
 
-<div style="margin-top: 1.8rem; margin-bottom: 2.5rem;">
-<p style="margin:0"><strong>B.Tech in Chemical Engineering</strong> &nbsp;|&nbsp; SSN College of Engineering, Chennai &nbsp;|&nbsp; <em>2021 – 2025</em></p>
-<p style="margin-top: 0.5rem;">CGPA: 8.3/10 &nbsp;|&nbsp; Equivalent to 3.3/4 GPA &nbsp;|&nbsp; Department 3rd Rank</p>
-</div>
+### Bachelor of Technology in Chemical Engineering | SSN College of Engineering | 2021 – 2025
 
-<div style="margin-bottom: 2.5rem;">
-<p style="margin:0"><strong>Higher Secondary (CBSE)</strong> &nbsp;|&nbsp; SBOA School and Junior College, Chennai &nbsp;|&nbsp; <em>2021</em></p>
-<p style="margin-top: 0.5rem;">Percentage: 88%</p>
-</div>
+**CGPA:** 8.3/10  
+**Department 3rd Rank**
 
 ---
 
 ## Technical Skills
 
-<div style="margin-top: 1.8rem; margin-bottom: 2.5rem;">
-
 | Category | Skills |
 |---|---|
-| Characterization | FTIR, XPS, SEM/EDS, XRD, AFM |
-| Fabrication & Synthesis | RF Sputtering, HEA, Colloidal synthesis, CO₂ laser processing |
-| Data Analysis | Python (Pandas, Plotly), MATLAB, Streamlit, OriginLab, Aspen Plus |
-| Developer Tools | Git/GitHub, PyMongo, Streamlit Sandbox |
-
-</div>
+| **Materials Characterization** | XRD, XPS, SEM/EDS, AFM, FTIR; structural, chemical, and surface analysis |
+| **Materials Processing & Synthesis** | RF Sputtering, Sol-Gel Synthesis, Solid-State Metallurgy, Arc Melting, High-Entropy Alloys, CO₂ Laser Processing |
+| **Data Analysis & Scientific Computing** | Python (Pandas, Plotly), MATLAB, OriginLab, Aspen Plus, Streamlit |
+| **Research & AI** | Uncertainty Quantification, Scientific Literature Analysis, Data Visualization, AI-Assisted Research Workflows |
+| **Development Tools** | Git/GitHub, PyMongo, Streamlit Deployment |
 
 ---
 
 ## Publications & Conferences
 
-<div style="margin-top: 1.8rem; margin-bottom: 2.5rem;">
-<p><strong>IIChE National Conference on Innovation of Process Engineering for Sustainable Development</strong> &nbsp;|&nbsp; Mar 2025</p>
-<p style="color: #aaa; font-style: italic;">Enhancing Microfinish and Resolving Smut and Powdery Coating Issues in the Anodizing Process for Automotive Plunger Manufacturing</p>
-<p style="color: #aaa; font-size: 0.9rem;">Authors: Akshaya Sankaran, Anne Gracia A, Dr. Pachimatla Rajesh</p>
-</div>
+### National Conference on Innovation of Process Engineering for Sustainable Development | IIChE-CRC | March 2025
+
+**Research Presentation:**  
+*Enhancing Microfinish and Resolving Smut and Powdery Coating Issues in the Anodizing Process for Automotive Plunger Manufacturing*
+
+Presented research conducted during industrial R&D at Brakes India on optimizing anodization processes for automotive components.
+
+**Authors:** Akshaya Sankaran, Anne Gracia A, Dr. Pachimatla Rajesh
+
+---
+
+## Achievements, Leadership & Community Engagement
+
+- **Department 3rd Rank**, B.Tech Chemical Engineering, SSN College of Engineering.
+- **₹35,000 Institutional Research Funding** awarded for undergraduate research on the electrochemical kinetics and pitting corrosion behaviour of WAAM 316L stainless steel.
+- **District-Level Handball Player**, representing at the district level in competitive handball.
+- **Event Head, INVENTE Symposium**, SSN College of Engineering, contributing to the organization and execution of the departmental technical symposium.
+- **Youth Red Cross Volunteer**, participated in blood donation drives, food distribution campaigns, community outreach camps, and social-service initiatives.
+- **Community Education Volunteer**, supported NGO-led teaching initiatives for underprivileged children.
+- **Community Service Volunteer**, participated in government-school repainting and community improvement initiatives.
+
+---
+
+## Research Interests
+
+- Sustainable Materials & Manufacturing
+- AI for Scientific Discovery
+- Materials Innovation & Advanced Manufacturing
+- Industrial R&D & Process Optimization
+- Energy & Functional Materials
+- Technology for Sustainable Development
 
 ---
 
 ## Certifications
 
-<div style="margin-top: 1.8rem; margin-bottom: 2.5rem;">
-<ul>
-<li>Energy Conservation and Waste Heat Recovery </li>
-<li>Physico-chemical Processes for Wastewater Treatment </li>
-</ul>
-</div>
+- Energy Conservation and Waste Heat Recovery
+- Physico-Chemical Processes for Wastewater Treatment
 
 ---
 
 ## Workshops & Training
 
-<div style="margin-top: 1.8rem; margin-bottom: 2.5rem;">
-<ul>
-<li>Aspen Plus Workshop — Anna University, Apr 2023</li>
-<li>Fusion 360 Bootcamp — SSN College of Engineering, Oct 2022</li>
-<li>Smart Monitoring and Process Optimization — SSN College of Engineering, 2023</li>
-</ul>
-</div>
+- **Aspen Plus Workshop** — Anna University | Apr 2023
+- **Fusion 360 Bootcamp** — SSN College of Engineering | Oct 2022
+- **Smart Monitoring & Process Optimization** — SSN College of Engineering | 2023
 
 ---
 
-## Extracurriculars
+## Portfolio & Professional Links
 
-<div style="margin-top: 1.8rem; margin-bottom: 2.5rem;">
-<ul>
-<li>District-level Handball player</li>
-<li>Active member, Youth Red Cross — organized blood donation and medical camps</li>
-<li>Teaching volunteer for NGO</li>
-<li>Event Head, INVENTE Symposium — SSN College of Engineering</li>
-</ul>
-</div>
+**Portfolio:** [annegracia.github.io](https://annegracia.github.io/)  
+**LinkedIn:** [Anne Gracia](YOUR_LINKEDIN_URL)  
+**GitHub:** [anne366](https://github.com/anne366)
