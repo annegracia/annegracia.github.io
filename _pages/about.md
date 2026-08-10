@@ -19,9 +19,9 @@ selected_papers: false
 social: true
 ---
 
-Chemical engineer and materials researcher working at the intersection of experimental science and AI-driven R&D. Currently part of the core development team at N-ERGY AI Solutions, I contribute to the development of AI-powered materials discovery platforms by building research automation workflows, uncertainty quantification frameworks, scientific literature intelligence systems, and simulation visualization tools that accelerate materials R&D.
+Chemical Engineer and Materials Researcher working at the intersection of experimental science, artificial intelligence, and industrial R&D. At N-ERGY AI Solutions, I am part of the core product team developing AI-powered materials discovery technologies, where I work across research automation, scientific literature intelligence, uncertainty quantification, and simulation workflows to accelerate materials R&D.
 
-My research background spans thin-film deposition (RF sputtering of Al films for quantum computing applications), corrosion science (pitting behaviour of WAAM 316L stainless steel — institutionally funded), and surface engineering (industrial anodization optimization at Brakes India). Each project was rooted in a real manufacturing or technology problem, not just academic exercise.
+My research journey spans thin-film deposition for quantum computing applications, corrosion science of WAAM 316L stainless steel, and industrial surface engineering at Brakes India. From institutionally funded research to industry-driven projects, I have worked on problems where materials science meets real engineering constraints—and where the goal is not just to understand a material, but to develop a solution that works.
 
-I gravitate toward problems that sit at the edge of materials science and engineering systems — where characterization data meets process decisions and where fundamental research connects to industrial reality.
+I am particularly interested in materials innovation, sustainable manufacturing, and AI-assisted scientific discovery—especially problems where experimental data, computational tools, and engineering decisions come together. I enjoy working across disciplines, taking ideas from the lab to practical applications, and building systems that make scientific research faster, smarter, and more impactful.
 
